@@ -42,8 +42,8 @@ class App{
             this.addNote({title,text})
         }else {
             this.closeForm();
-        }
-            this.closeForm();
+        } 
+        this.closeForm();
         });
     }
 

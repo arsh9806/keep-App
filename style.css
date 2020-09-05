@@ -364,6 +364,7 @@ input:focus {
   cursor: pointer;
 }
 
+
 .modal-close-button:hover {
   background-color: rgba(95, 99, 104, 0.039);
 }
